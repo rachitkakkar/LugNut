@@ -21,3 +21,6 @@ html = '''
 
 output = open(sys.argv[2], 'w')
 output.write(html)
+
+print('Done!')
+print('LugNut was made by Rachit Kakkar')
